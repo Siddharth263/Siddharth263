@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Siddharth263
-- 👀 I’m interested in Web Development, Networking, CyberSec
-- 🌱 I’m currently learning Full Stack Development | MERN Stack
+- 👀 I’m interested in Web Development, Networking, and CyberSec
+- 🌱 I’m currently learning Full Stack Development | MERN Stack at Masai School.
 - 💞️ I’m looking to collaborate on HTML, C, C++, Python and JS
 - 📫 How to reach me priyanshulal2213@gmail.com
 
