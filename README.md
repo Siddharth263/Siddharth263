@@ -16,7 +16,10 @@
 - ❓ Ask me about anything related to JAVA and related technologies  
   
 
-- ⚡ Fun fact: I prefer coding over sleep 😁  
+- ⚡ Fun fact: I prefer coding over sleep 😁 
+
+
+- ⭐ Check out my repositories and leave a star if you like them
   
 
 <br/>  
