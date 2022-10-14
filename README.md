@@ -4,7 +4,7 @@
 </div>  
   
 
-### <div align="center">I'm Priyanshu, a Full Stack Developer, specialising in Backend Development 👨‍💻 🚀</div>  
+### <div align="center">Hi, Myself Priyanshu, a JAVA Backend Developer 👨‍💻 🚀</div>  
   
 
 - 🔭 I’m currently working on my Tech Skills  
