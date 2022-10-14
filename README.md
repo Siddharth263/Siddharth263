@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on my Tech Skills  
   
 
-- 🌱 I’m currently learning Full Stack Development at [MasaiSchool](https://www.masaischool.com/)  
+- 🌱 I’m becoming a JAVA Backend Developer at [MasaiSchool](https://www.masaischool.com/)  
   
 
 - ❓ Ask me about anything related to JAVA and related technologies  
@@ -79,7 +79,11 @@
 </a>
 <a href="https://github.com/Siddharth263" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
+</a>
+<a href=https://leetcode.com/priyanshulal2213/>
+<img src=https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06 alt=leetcode>
+</a>
+  
 </div>  
   
 
