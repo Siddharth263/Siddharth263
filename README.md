@@ -94,15 +94,19 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Siddharth263&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-<div>
-[(https://github-readme-stats.vercel.app/api/pin/?username=Siddharth263&repo=github-readme-stats)](https://github.com/Siddharth263/github-readme-stats)
-</div>
+<div align="center">
+
+![Siddharth263's Stats](https://github-readme-stats.vercel.app/api?username=Siddharth263&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![Siddharth263's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Siddharth263&theme=vue-dark&hide_border=true)
+
+![Siddharth263's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharth263&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+ </div>
 
 <br/>  
 
 
-## [You made till here! Want to listen to some songs😋](https://open.spotify.com/user/ji27v6vs06wymus7zoy34fqzk)   
+## [You made till here! Wanna listen to some music😋](https://open.spotify.com/user/ji27v6vs06wymus7zoy34fqzk)   
   
 
 <br/>  
