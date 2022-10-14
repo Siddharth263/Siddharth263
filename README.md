@@ -105,8 +105,21 @@
 
 <br/>  
 
+## You made it this far!
 
-## [You made till here! Wanna listen to some music😋](https://open.spotify.com/user/ji27v6vs06wymus7zoy34fqzk)   
+<br/>
+
+<div align="center">
+
+### Here's a funny meme for you: 
+
+
+<img src=https://image.shutterstock.com/image-vector/algorithm-definition-trending-vector-quote-260nw-2117871413.jpg alt=meme>
+</div>
+
+<br/>
+
+## [Connect me on Spotify😋](https://open.spotify.com/user/ji27v6vs06wymus7zoy34fqzk)   
   
 
 <br/>  
