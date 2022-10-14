@@ -95,6 +95,9 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Siddharth263&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div>
+[(https://github-readme-stats.vercel.app/api/pin/?username=Siddharth263&repo=github-readme-stats)](https://github.com/Siddharth263/github-readme-stats)
+</div>
 
 <br/>  
 
