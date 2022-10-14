@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on my Tech Skills  
   
 
-- 🌱 I’m becoming a JAVA Backend Developer at [MasaiSchool](https://www.masaischool.com/)  
+- 🌱 I’m a JAVA Backend Developer  
   
 
 - ❓ Ask me about anything related to JAVA and related technologies  
