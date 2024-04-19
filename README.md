@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Priyanshu<br>A passionate frontend and backend developer from India<br>👯 I’m looking to collaborate on frontend and backend projects<br>🌱 I’m currently learning ReactJs<br>📫 How to reach me: priyanshulal2213@gmail.com<br>👨‍💻 All of my projects are available at: https://siddharth263.github.io/<br>📄 Know about my experiences: https://siddharth263.github.io/resume/Priyanshu_Lal_Resume.pdf
+Hi 👋, I'm Priyanshu<br>A passionate frontend and backend developer from India<br>👯 I’m looking to collaborate on frontend and backend projects<br>📫 How to reach me: priyanshulal2213@gmail.com<br>👨‍💻 All of my projects are available at: https://siddharth263.github.io/<br>📄 Know about my experiences: https://siddharth263.github.io/resume/Priyanshu_Lal_Resume.pdf
 
 
 ## 🌐 Socials:
